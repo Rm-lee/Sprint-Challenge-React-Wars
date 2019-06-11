@@ -1,21 +1,29 @@
 .character{
  display:flex;
  flex-direction:column;
- margin-left:10%;
+ 
+
  
 }
+h2{
+ font-size:2rem;
+ color:blue;
+
+}
 .prop-name{
- background:grey;
+ background:lightgrey;
  border-radius:5px;
  
 }
 .detail-container{
  display:flex;
  justify-content: space-around;
+ color:#242323;
 }
 .key-details{
  width:80%;
  background:lightgrey;
  padding:0 10px;
+ border-radius: 5px;
 
 }
