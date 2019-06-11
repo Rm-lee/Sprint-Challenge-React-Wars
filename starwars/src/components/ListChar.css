@@ -1,0 +1,16 @@
+.character{
+ display:flex;
+ flex-direction:column;
+ 
+}
+.prop-name{
+ 
+ 
+}
+.detail-container{
+ display:flex;
+ justify-content: space-evenly;
+}
+.key-details{
+ text-align: left;
+}
