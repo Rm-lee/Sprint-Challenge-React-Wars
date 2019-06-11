@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+  React is a library developed by facebook to try and cut down the amount of data that needs to be reloaded on a page. By only needing to refresh certain components on a page much of the page can remain unchanged causing less data traffic from servers to clients.
+
 - [ ] What does it mean to _think_ in react?
+
+  Thinking in react means to conceptualize building out your components as you build your app, where your state will live, how your components will be displayed.
 
 - [ ] Describe state.
 
+  State is the concept of storing the apps state. State can house your data that you need to feed down to your components.
+
 - [ ] Describe props.
+
+  Props are immutable properties we can give to our components for them to use. Props are various forms of data that can be passed down.
 
 ## Project Set Up
 
