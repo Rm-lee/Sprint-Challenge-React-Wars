@@ -1,9 +1,6 @@
 .character{
  display:flex;
  flex-direction:column;
- 
-
- 
 }
 h2{
  font-size:2rem;
@@ -17,7 +14,7 @@ h2{
 }
 .detail-container{
  display:flex;
- justify-content: space-around;
+ justify-content: center;
  color:#242323;
 }
 .key-details{
@@ -25,5 +22,6 @@ h2{
  background:lightgrey;
  padding:0 10px;
  border-radius: 5px;
-
+ width:50%;
+ margin-left:5%;
 }

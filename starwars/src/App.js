@@ -34,7 +34,7 @@ class App extends Component {
   render() {
   
     return (
-      <div className="App">
+      <div className="App app-container">
         <h1 className="Header">React Wars</h1>
         <ListChar characters={this.state.starwarsChars}/>
       </div>
